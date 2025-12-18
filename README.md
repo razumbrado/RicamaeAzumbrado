@@ -126,9 +126,6 @@ My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter*
 <!-- Top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razumbrado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
-<!-- Fixed GitHub streak card -->
-<img src="https://streak-stats.demolab.com?user=razumbrado&theme=radical&hide_border=true&background=0D1117&ring=9333EA&fire=6366F1&currStreakLabel=9333EA" alt="GitHub Streak" />
-
 </div>
 
 ---
