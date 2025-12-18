@@ -67,7 +67,7 @@ My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter*
 
 ---
 
-### 🖼️ App Screens (UI Preview)
+## 🖼️ App Screens (UI Preview)
 
 <div align="center">
 
@@ -91,9 +91,9 @@ My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter*
 | **German Shepherd** | <img src="assets/DogClasses/German%20Shepherd.jpg" alt="German Shepherd" width="140" /> | A highly **intelligent and trainable** working dog, often used in police, rescue, and service roles. |
 | **Golden Retriever** | <img src="assets/DogClasses/Golden%20Retriever.jpg" alt="Golden Retriever" width="140" /> | Friendly and social, known for its **golden coat** and great temperament with families and kids. |
 | **Labrador Retriever** | <img src="assets/DogClasses/Labrador%20Retriever.jpg" alt="Labrador Retriever" width="140" /> | One of the most popular breeds; **loyal, playful, and versatile**, ideal as a family or service dog. |
-| **Pomeranian** | <img src="assets/DogClasses/Pomeranian.jpg" alt="Pomeranian" width="140" /> | A **small, fluffy companion dog** with a fox‑like face and a bold, lively personality. |
-| **Poodle** | <img src="assets/DogClasses/Poodle.jpg" alt="Poodle" width="140" /> | Very **smart and elegant**, known for its curly coat and often used in both show and companion roles. |
-| **Shih Tzu** | <img src="assets/DogClasses/Shih%20Tzu.jpg" alt="Shih Tzu" width="140" /> | A **small, affectionate lap dog** with long flowing hair, bred as a companion in royal courts. |
+| **Pomeranian** | <img src="assets/DogClasses/Pomeranian.jpg" alt="Pomeranian" width="140" /> | A **small, fluffy companion dog** with a fox‑like face and lively personality. |
+| **Poodle** | <img src="assets/DogClasses/Poodle.jpg" alt="Poodle" width="140" /> | Very **smart and elegant**, known for its curly coat and versatility. |
+| **Shih Tzu** | <img src="assets/DogClasses/Shih%20Tzu.jpg" alt="Shih Tzu" width="140" /> | A **small, affectionate lap dog** with long hair, bred as a royal companion. |
 | **Siberian Husky** | <img src="assets/DogClasses/Siberian%20Husky.jpg" alt="Siberian Husky" width="140" /> | A **striking, energetic sled dog** with a thick coat and often blue or mixed‑color eyes. |
 
 </div>
