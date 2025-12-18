@@ -71,11 +71,15 @@ My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter*
 
 <div align="center">
 
-| Home | Scan | History | Analytics |
+| Home | Scan | Analytics | History |
 |:----:|:----:|:-------:|:--------:|
-| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Home%20Page.jpg) | [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Scan%20Page.jpg) | [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/History%20Page.jpg) | [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Analytics%20Page.jpg) |
+| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Home%20Page.jpg) | 
+  [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Scan%20Page.jpg) | 
+  [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Analytics%20Page.jpg) | 
+  [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/History%20Page.jpg) |
 
 </div>
+
 
 ---
 
