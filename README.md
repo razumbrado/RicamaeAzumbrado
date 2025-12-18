@@ -54,7 +54,51 @@ I enjoy working with **Flutter**, **web technologies**, and **databases**, and I
 
 ---
 
-## 💼 Featured Projects
+## 📱 Dog Breeds Identifier App
+
+My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter** and a **TensorFlow Lite model**.
+
+- **Purpose**: Help users identify dog breeds quickly using their phone.
+- **Core Features**:
+  - 📷 **Scan & Identify** dog breeds from photos
+  - 🧠 **On‑device ML model** using `.tflite` and `labels.txt`
+  - 📊 **History & Analytics** to review previous scans
+  - 🎨 **Modern, minimal UI** focused on clarity and ease of use
+
+---
+
+### 🖼️ App Screens (UI Preview)
+
+<div align="center">
+
+| Home | Scan | History | Analytics |
+|:----:|:----:|:-------:|:--------:|
+| <img src="assets/DogBreedsApp/Home%20Page.jpg" alt="Home Page" width="230" /> | <img src="assets/DogBreedsApp/Scan%20Page.jpg" alt="Scan Page" width="230" /> | <img src="assets/DogBreedsApp/History%20Page.jpg" alt="History Page" width="230" /> | <img src="assets/DogBreedsApp/Analytics%20Page.jpg" alt="Analytics Page" width="230" /> |
+
+</div>
+
+---
+
+## 🐶 Dog Breed Classes
+
+<div align="center">
+
+| Breed | Preview | Description |
+|:-----|:-------:|:------------|
+| **Aspin** | <img src="assets/DogClasses/Aspin.jpg" alt="Aspin" width="140" /> | A beloved **Filipino native dog**, known for its loyalty, intelligence, and unique mixed features. |
+| **Bulldog** | <img src="assets/DogClasses/Bulldog.jpg" alt="Bulldog" width="140" /> | A **calm, muscular companion** with a wrinkled face and strong build, often gentle and affectionate. |
+| **Dalmatian** | <img src="assets/DogClasses/Dalmatian.jpg" alt="Dalmatian" width="140" /> | Famous for its **white coat with black spots**, energetic and alert with a strong working‑dog history. |
+| **German Shepherd** | <img src="assets/DogClasses/German%20Shepherd.jpg" alt="German Shepherd" width="140" /> | A highly **intelligent and trainable** working dog, often used in police, rescue, and service roles. |
+| **Golden Retriever** | <img src="assets/DogClasses/Golden%20Retriever.jpg" alt="Golden Retriever" width="140" /> | Friendly and social, known for its **golden coat** and great temperament with families and kids. |
+| **Labrador Retriever** | <img src="assets/DogClasses/Labrador%20Retriever.jpg" alt="Labrador Retriever" width="140" /> | One of the most popular breeds; **loyal, playful, and versatile**, ideal as a family or service dog. |
+| **Pomeranian** | <img src="assets/DogClasses/Pomeranian.jpg" alt="Pomeranian" width="140" /> | A **small, fluffy companion dog** with a fox‑like face and a bold, lively personality. |
+| **Poodle** | <img src="assets/DogClasses/Poodle.jpg" alt="Poodle" width="140" /> | Very **smart and elegant**, known for its curly coat and often used in both show and companion roles. |
+| **Shih Tzu** | <img src="assets/DogClasses/Shih%20Tzu.jpg" alt="Shih Tzu" width="140" /> | A **small, affectionate lap dog** with long flowing hair, bred as a companion in royal courts. |
+| **Siberian Husky** | <img src="assets/DogClasses/Siberian%20Husky.jpg" alt="Siberian Husky" width="140" /> | A **striking, energetic sled dog** with a thick coat and often blue or mixed‑color eyes. |
+
+</div>
+
+## 💼 Other Featured Projects
 
 <div align="center">
 
