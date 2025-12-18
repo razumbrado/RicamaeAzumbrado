@@ -24,7 +24,7 @@ I enjoy working with **Flutter**, **web technologies**, and **databases**, and I
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills and Technologies
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -73,7 +73,7 @@ My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter*
 
 | Home | Scan | History | Analytics |
 |:----:|:----:|:-------:|:--------:|
-| <img src="assets/DogBreedsApp/Home%20Page.jpg" alt="Home Page" width="230" /> | <img src="assets/DogBreedsApp/Scan%20Page.jpg" alt="Scan Page" width="230" /> | <img src="assets/DogBreedsApp/History%20Page.jpg" alt="History Page" width="230" /> | <img src="assets/DogBreedsApp/Analytics%20Page.jpg" alt="Analytics Page" width="230" /> |
+| [<img src="Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Home%20Page.jpg) | [<img src="Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Scan%20Page.jpg) | [<img src="Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/History%20Page.jpg) | [<img src="Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Application_Screenshots/Analytics%20Page.jpg) |
 
 </div>
 
@@ -85,16 +85,16 @@ My featured mobile project is a **Dog Breeds Identifier**, built with **Flutter*
 
 | Breed | Preview | Description |
 |:-----|:-------:|:------------|
-| **Aspin** | <img src="assets/DogClasses/Aspin.jpg" alt="Aspin" width="140" /> | A beloved **Filipino native dog**, known for its loyalty, intelligence, and unique mixed features. |
-| **Bulldog** | <img src="assets/DogClasses/Bulldog.jpg" alt="Bulldog" width="140" /> | A **calm, muscular companion** with a wrinkled face and strong build, often gentle and affectionate. |
-| **Dalmatian** | <img src="assets/DogClasses/Dalmatian.jpg" alt="Dalmatian" width="140" /> | Famous for its **white coat with black spots**, energetic and alert with a strong working‑dog history. |
-| **German Shepherd** | <img src="assets/DogClasses/German%20Shepherd.jpg" alt="German Shepherd" width="140" /> | A highly **intelligent and trainable** working dog, often used in police, rescue, and service roles. |
-| **Golden Retriever** | <img src="assets/DogClasses/Golden%20Retriever.jpg" alt="Golden Retriever" width="140" /> | Friendly and social, known for its **golden coat** and great temperament with families and kids. |
-| **Labrador Retriever** | <img src="assets/DogClasses/Labrador%20Retriever.jpg" alt="Labrador Retriever" width="140" /> | One of the most popular breeds; **loyal, playful, and versatile**, ideal as a family or service dog. |
-| **Pomeranian** | <img src="assets/DogClasses/Pomeranian.jpg" alt="Pomeranian" width="140" /> | A **small, fluffy companion dog** with a fox‑like face and lively personality. |
-| **Poodle** | <img src="assets/DogClasses/Poodle.jpg" alt="Poodle" width="140" /> | Very **smart and elegant**, known for its curly coat and versatility. |
-| **Shih Tzu** | <img src="assets/DogClasses/Shih%20Tzu.jpg" alt="Shih Tzu" width="140" /> | A **small, affectionate lap dog** with long hair, bred as a royal companion. |
-| **Siberian Husky** | <img src="assets/DogClasses/Siberian%20Husky.jpg" alt="Siberian Husky" width="140" /> | A **striking, energetic sled dog** with a thick coat and often blue or mixed‑color eyes. |
+| **Aspin** | [<img src="Dog_Classes_Images/Aspin.jpg" alt="Aspin" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Aspin.jpg) | A beloved **Filipino native dog**, known for its loyalty, intelligence, and unique mixed features. |
+| **Bulldog** | [<img src="Dog_Classes_Images/Bulldog.jpg" alt="Bulldog" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Bulldog.jpg) | A **calm, muscular companion** with a wrinkled face and strong build, often gentle and affectionate. |
+| **Dalmatian** | [<img src="Dog_Classes_Images/Dalmatian.jpg" alt="Dalmatian" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Dalmatian.jpg) | Famous for its **white coat with black spots**, energetic and alert with a strong working‑dog history. |
+| **German Shepherd** | [<img src="Dog_Classes_Images/German%20Shepherd.jpg" alt="German Shepherd" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/German%20Shepherd.jpg) | A highly **intelligent and trainable** working dog, often used in police, rescue, and service roles. |
+| **Golden Retriever** | [<img src="Dog_Classes_Images/Golden%20Retriever.jpg" alt="Golden Retriever" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Golden%20Retriever.jpg) | Friendly and social, known for its **golden coat** and great temperament with families and kids. |
+| **Labrador Retriever** | [<img src="Dog_Classes_Images/Labrador%20Retriever.jpg" alt="Labrador Retriever" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Labrador%20Retriever.jpg) | One of the most popular breeds; **loyal, playful, and versatile**, ideal as a family or service dog. |
+| **Pomeranian** | [<img src="Dog_Classes_Images/Pomeranian.jpg" alt="Pomeranian" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Pomeranian.jpg) | A **small, fluffy companion dog** with a fox‑like face and lively personality. |
+| **Poodle** | [<img src="Dog_Classes_Images/Poodle.jpg" alt="Poodle" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Poodle.jpg) | Very **smart and elegant**, known for its curly coat and versatility. |
+| **Shih Tzu** | [<img src="Dog_Classes_Images/Shih%20Tzu.jpg" alt="Shih Tzu" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Shih%20Tzu.jpg) | A **small, affectionate lap dog** with long hair, bred as a royal companion. |
+| **Siberian Husky** | [<img src="Dog_Classes_Images/Siberian%20Husky.jpg" alt="Siberian Husky" width="140" />](https://github.com/razumbrado/RicamaeAzumbrado/blob/main/Dog_Classes_Images/Siberian%20Husky.jpg) | A **striking, energetic sled dog** with a thick coat and often blue or mixed‑color eyes. |
 
 </div>
 
