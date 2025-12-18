@@ -1,0 +1,10 @@
+0 Golden Retriever
+1 Poodle
+2 Dalmatian
+3 Bulldog
+4 Pomeranian
+5 Siberian Husky
+6 German Shepherd
+7 Labrador Retriever
+8 Shih Tzu
+9 Aspin
