@@ -1,30 +1,30 @@
 <div align="center">
 
-## 👩‍💻 Ricamae Azumbrado
-
-### 🎓 IT Student | Web & Mobile App Developer
-
-*Passionate about building clean, functional web and mobile applications.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razumbrado)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ricamae+Azumbrado+%F0%9F%91%8B;IT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases" alt="Typing SVG" />
 
 ---
+
+### 👩‍💻 Ricamae Azumbrado  
+**IT Student · Flutter & Web Developer · Aspiring Full‑Stack Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-razumbrado-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razumbrado)
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-I'm **Ricamae Azumbrado**, an **IT student** who loves learning by building projects.  
+I'm **Ricamae**, an **IT student** who loves learning by building real projects.  
 I enjoy working with **Flutter**, **web technologies**, and **databases**, and I use GitHub to track my growth as a developer.
 
-**What I enjoy:**
-- 🎯 Creating projects from scratch and seeing them run
-- 📱 Designing simple, user‑friendly interfaces
-- 🧠 Learning new tools and improving my code quality
+- 🌱 Currently improving my **Flutter UI**, **web design**, and **database skills**
+- 🧩 I like breaking big problems into small, clear steps
+- 🎯 Long‑term goal: become a **full‑stack developer** who can build and deploy complete apps
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,46 +65,42 @@ I enjoy working with **Flutter**, **web technologies**, and **databases**, and I
 | **Azumbrado_IT108_QUIZ** | Quiz and practice projects for IT108 | `Web` | [View Repo](https://github.com/razumbrado/Azumbrado_IT108_QUIZ) |
 | **Flutter_Widget_UIComponents** | Reusable Flutter UI components and widgets | `Flutter` `Dart` | [View Repo](https://github.com/razumbrado/Flutter_Widget_UIComponents) |
 | **mysql-trigger-implementation-azumbrado** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/razumbrado/mysql-trigger-implementation-azumbrado) |
-| **Azumbrado_Esma_FinalProject** | Academic final project showcasing multiple skills | `Multiple Technologies` | [View Repo](https://github.com/razumbrado/Azumbrado_Esma_FinalProject) |
+| **Azumbrado_Esma_FinalProject** | Academic final project using multiple technologies | `Multiple Technologies` | [View Repo](https://github.com/razumbrado/Azumbrado_Esma_FinalProject) |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razumbrado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true)
+<!-- Main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=razumbrado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Ricamae's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razumbrado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8)
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razumbrado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=razumbrado&theme=radical&hide_border=true&background=0D1117&fire=6366F1&ring=9333EA&currStreakLabel=9333EA)
+<!-- Fixed GitHub streak card -->
+<img src="https://streak-stats.demolab.com?user=razumbrado&theme=radical&hide_border=true&background=0D1117&ring=9333EA&fire=6366F1&currStreakLabel=9333EA" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Learning Roadmap
 
-- **Flutter**: better layouts, navigation, and state management  
-- **Firebase**: authentication and data storage for apps  
-- **Web Development**: cleaner UI and responsive designs  
-- **Database Design**: more solid MySQL structures and queries  
-
----
-
-## 💡 Goals
-
-- Build more **complete projects** that connect frontend, backend, and database  
-- Improve my **problem‑solving skills** through coding challenges and projects  
-- Use **GitHub** more for collaboration, code reviews, and version control  
+- 📱 Build more **Flutter** apps with better navigation and state management  
+- ☁️ Connect apps to **Firebase** (auth & database)  
+- 🌐 Improve **responsive web design** and UI/UX  
+- 🗄️ Practice **database design** and more complex SQL queries  
 
 ---
 
 <div align="center">
 
-**Thanks for checking out my profile!**  
-Feel free to explore my repositories at [github.com/razumbrado](https://github.com/razumbrado).
+✨ **Thanks for visiting my profile!**  
+Feel free to explore my repositories and follow my journey:  
+👉 [github.com/razumbrado](https://github.com/razumbrado)
 
 </div>
