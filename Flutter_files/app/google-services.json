@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177969039888",
+    "project_id": "azumbrado-dogbreeds-5d0ac",
+    "storage_bucket": "azumbrado-dogbreeds-5d0ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177969039888:android:e7fba8a6062ed5c08cd895",
+        "android_client_info": {
+          "package_name": "com.example.azumbrado_dogbreeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxY0nRlnyY0D7ywdrBvNazY6J_zaYH0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
